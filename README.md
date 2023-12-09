@@ -1,0 +1,5 @@
+- MongoDB
+- Express.js
+- React
+- Node.js
+- Additional libraries and tools...
